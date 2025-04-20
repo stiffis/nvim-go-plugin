@@ -1,4 +1,4 @@
-module github.com/stiffis/plugin
+module github.com/stiffis/nvim-go-plugin
 
 go 1.24.1
 
